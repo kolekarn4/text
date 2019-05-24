@@ -1,1 +1,1 @@
-Sign up <input type="text">
+Sign up <input type="textbox">
